@@ -2,7 +2,7 @@
 
 ### Stuff I work on:
 
-- Ririka, a gulag-based osu! server: https://ririka.xyz
+- Ririka, a gulag-based osu! server: https://ririka.pw
 - EZPPFarm, also an osu! server, but nothing actual development related: https://ez-pp.farm
 - Kayo, a Discord Bot: https://kayo.pw
 - Mainly osu! videos and thumbnails: https://catlow.xyz/shop
